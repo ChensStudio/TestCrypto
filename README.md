@@ -10,7 +10,7 @@ Below steps were test in MacOS and iOS simulator,  which is from an empty projec
 9. ./node_modules/.bin/rn-nodeify --hack --install
 10. npm i --save-dev tradle/rn-nodeify
 11. ./node_modules/.bin/rn-nodeify --hack --install
-12. npm i --save chain3 ???
+12. npm i --save chain3
 
 
 To run your app on iOS:
